@@ -22,7 +22,7 @@ chismosas.forEach(c => {
   const lvl = c.getGossipLevel()
   const rep = c.getReputation()
   const gossipColor = lvl >= 8 ? chalk.magenta : chalk.white
-  const repColor = rep >= 7 ? chalk.keyword('orange') : chalk.black.bgWhite
+  const repColor = rep >= 7 ? chalk.hex('#FFA500') : chalk.black.bgWhite
 
   console.log(
     `${gossipColor(c.name)} ▶ Chisme: ${lvl.toFixed(1)} ${repColor(`Reputación: ${rep.toFixed(1)}`)}`
