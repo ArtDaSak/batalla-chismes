@@ -1,0 +1,16 @@
+{
+    "name": "batalla-chismes",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Simulación de batalla de reinas del chisme usando POO en Node.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": ["gossip", "POO", "nodejs"],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+      "chalk": "^5.0.0"
+    }
+  }
