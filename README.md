@@ -2,7 +2,7 @@
 
 **¡Adéntrate en la contienda más jugosa donde las reinas del chisme destellan su ingenio y rivalizan por la fama viral!**
 
-> 🛠️ *Proyecto en desarrollo.*
+> ✔️ *Proyecto Terminado.*
 
 ***Batalla de Chismes*** es una simulación de POO en Node.js donde figuras icónicas del cotilleo —cada una con su propio estilo para recolectar y difundir información— compiten en rondas para ver quién desata el chisme más viral en el reino.
 
